@@ -1,4 +1,6 @@
 # Android Inventory Manager
+// an amazing project as well as idea
+
 
 - Project **Inventory App** of Android Basics Nanodegree
 - [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
